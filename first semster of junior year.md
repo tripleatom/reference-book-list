@@ -12,7 +12,7 @@
 
 课堂内容 recurrent network，firing rate models 等部分参照 peter 书 chap7 network models\
 information theory 部分参照 peter 书 chap4\
-axons and dentrites 等突出的基本结构参考骆利群书前几章
+axons and dentrites 等突触的基本结构参考骆利群书前几章
 
 **量子力学**\
 量子力学导论 潘必才\
